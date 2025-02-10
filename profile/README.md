@@ -21,5 +21,3 @@ Marea AI is just getting started! We have ambitious plans to expand its capabili
 * **Optimized Mobile Experience**.- Enhance the UI/UX for mobile users, ensuring a smoother, more intuitive interface for DeFi interactions on the go.
 *  **Multi-Chain Expansion**.- Expand beyond Sui to support cross-chain transactions, making it easier for users from other ecosystems to bridge and onboard to Sui ecosystem.
 
-
-## Quick Start

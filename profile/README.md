@@ -1,6 +1,6 @@
 ## 🌊 Marea AI Quick Links
 
-[*Website*](https://mareaai.vercel.app/)
+[*Website*](https://marea-ai.vercel.app/)
 
 [*Video Demo*](https://youtu.be/TcMV0nDdQhs)
 

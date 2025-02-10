@@ -1,12 +1,15 @@
-## Hi there 👋
+## Marea AI 👋
 
-<!--
+[*Website*](https://mareaai.vercel.app/)
 
-**Here are some ideas to get you started:**
+[*Technical Docs*](https://flow-hackaton.gitbook.io/flowbetpalace/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[*Pitch Deck*](https://drive.google.com/file/d/1kGT_JfiBvWPh1m3iQOGMPaqLoPFuQsxv/view?usp=sharing)
+
+[*Video Demo*](https://youtu.be/TcMV0nDdQhs)
+
+##Marea AI Dapp
+Marea AI is the leading DeFi (Decentralized Finance) terminal on Sui blockchain, powered by Artificial Intelligence. Users can swap tokens, view trending tokens, analyze their portfolio, stake SUI, and more, without any interrumptions and a seamless experience.
+
+##What makes Marea AI unique
+* This
